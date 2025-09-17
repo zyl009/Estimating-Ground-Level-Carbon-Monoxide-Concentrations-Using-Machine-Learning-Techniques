@@ -1,4 +1,4 @@
-# Estimating Ground-Level CO Concentrations with ML: Milan Case Study
+# Estimating Ground-Level Carbon Monoxide Concentrations Using Machine Learning Techniques: The Metropolitan City of Milan Case Study
 
 This repository contains the data processing and training pipelines for the paper **"Estimating Ground-Level Carbon Monoxide Concentrations Using Machine Learning Techniques: The Metropolitan City of Milan Case Study"**.
 
