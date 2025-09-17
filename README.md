@@ -73,9 +73,9 @@ The optimal temporal aggregation window was found to be **21:00 (previous day) t
 ## 👥 Contributing
 
 This project was developed as part of a research collaboration. Key contributions:
-*   **Z. Liang**: Lead developer; implemented the core ML pipeline, data preprocessing, feature engineering, model training, hyperparameter tuning, and analysis.
-*   **J. R. Cedeno Jimenez**: Contributed to experimental design, methodology conceptualization (based on prior NO₂ work), and manuscript preparation.
-*   **V. Yordanov**: Assisted with review of the manuscript .
+*   **Z. Liang**: Lead developer; implemented the core ML pipeline, data preprocessing, feature engineering, model training, hyperparameter tuning, analysis and manuscript.
+*   **J. R. Cedeno Jimenez**: Contributed to experimental design, methodology conceptualization (based on prior NO₂ work), and manuscript review.
+*   **V. Yordanov**: Assisted with review of the manuscript.
 *   **M. A. Brovelli**: Provided supervision, project administration, funding acquisition, and critical review of the methodology and manuscript.
 
 We welcome questions and discussions regarding the code. Please open an Issue for any bugs or clarifications.
