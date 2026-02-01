@@ -1,6 +1,6 @@
 # Estimating Ground-Level Carbon Monoxide Concentrations Using Machine Learning Techniques: The Metropolitan City of Milan Case Study
 
-This repository contains the data processing and training pipelines for the paper **"Estimating Ground-Level Carbon Monoxide Concentrations Using Machine Learning Techniques: The Metropolitan City of Milan Case Study"**.
+This repository contains the data processing and training pipelines for the paper [**"Estimating Ground-Level Carbon Monoxide Concentrations Using Machine Learning Techniques: The Metropolitan City of Milan Case Study"**](https://isprs-archives.copernicus.org/articles/XLVIII-4-W18-2025/241/2026/isprs-archives-XLVIII-4-W18-2025-241-2026.html).
 
 The study presents a machine learning framework to estimate daily average ground-level Carbon Monoxide (CO) concentrations by fusing satellite data (Sentinel-5P), atmospheric reanalysis data (CAMS, ERA5), and ground measurements from the ARPA Lombardia network.
 
@@ -95,10 +95,15 @@ We acknowledge the data providers:
 If you use this code or findings from our work in your research, please cite our paper:
 
 ```bibtex
-@article{liang2025estimating,
-  title={Estimating Ground-Level Carbon Monoxide Concentrations Using Machine Learning Techniques: The Metropolitan City of Milan Case Study},
-  author={Liang, Z. and Cedeno Jimenez, J.R. and Yordanov, V. and Brovelli, M.A.},
-  year={2025}
+@Article{isprs-archives-XLVIII-4-W18-2025-241-2026,
+AUTHOR = {Liang, Z. and Cedeno Jimenez, J. R. and Yordanov, V. and Brovelli, M. A.},
+TITLE = {Estimating Ground-Level Carbon Monoxide Concentrations Using Machine Learning Techniques: The Metropolitan City of Milan Case Study},
+JOURNAL = {The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences},
+VOLUME = {XLVIII-4/W18-2025},
+YEAR = {2026},
+PAGES = {241--248},
+URL = {https://isprs-archives.copernicus.org/articles/XLVIII-4-W18-2025/241/2026/},
+DOI = {10.5194/isprs-archives-XLVIII-4-W18-2025-241-2026}
 }
 ```
 
